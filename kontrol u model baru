@@ -1,0 +1,16 @@
+<script type='text/javascript'>
+//<![CDATA[
+function bieCU(e){
+if (e.ctrlKey && e.which == 85){
+window.location.replace("https://bandartotobet.blogspot.com/");
+return false;
+}
+}document.onkeydown = bieCU;
+function bieKK(e){
+if (e.which == 3){
+window.location.replace("https://bandartotobet.blogspot.com/");
+return false;
+}
+}document.oncontextmenu = bieKK;
+//]]>
+</script>
